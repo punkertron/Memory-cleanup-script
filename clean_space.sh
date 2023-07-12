@@ -13,9 +13,9 @@ rm -rf ${HOME}/Library/Application\ Support/Postman/Cache/*
 rm -rf ${HOME}/Library/Application\ Support/Postman/Partitions/postman_shell/GPUCache/*
 rm -rf ${HOME}/Library/Application\ Support/Google/Chrome/GrShaderCache/*
 rm -rf ${HOME}/Library/Application\ Support/Google/Chrome/ShaderCache/*
-rm -rf ${HOME}/Library/Application Support/Google/Chrome/Default/*
+rm -rf ${HOME}/Library/Application\ Support/Google/Chrome/Default/*
 rm -rf ${HOME}/Library/Containers/com.apple.AppStore/Data/Library/Caches/*
-rm -rf ${HOME}/Library/Safari/Favicon\ Cache/*
+#rm -rf ${HOME}/Library/Safari/Favicon\ Cache/*
 rm -rf ${HOME}/Library/Application\ Support/Postman/GPUCache/*
 rm -rf ${HOME}/Library/Application\ Support/Google/Chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/GPUCache/*
 rm -rf ${HOME}/Library/Application\ Support/Code/CachedExtensionVSIXs/*
